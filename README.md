@@ -18,6 +18,12 @@ Table of Contents
 2. Previously Completed Project Exemplars, <a href="">Click Here</a>
 <a href="">Click Here</a>
 
+Semester Planning: "Project is exactly what you want to do"
+- Title: Maximum 12 Words
+- Description: Sentence of what you will accomplish
+- Abstract: Paragraph of everything you will learn and do, big concepts only
+- Calendar: "Steps to do what you will do"
+  - Resources you will find information 
 
 ---
 
