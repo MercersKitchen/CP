@@ -23,7 +23,7 @@ Semester Planning: "Project is exactly what you want to do"
 - Description: Sentence of what you will accomplish
 - Abstract: Paragraph of everything you will learn and do, big concepts only
 - Calendar: "Steps to do what you will do"
-  - Resources you will find information 
+  - Resources you will find information
 
 ---
 
@@ -35,5 +35,12 @@ Semester Planning: "Project is exactly what you want to do"
 # To Include
 
 Course Outline, <a href="">Click Here</a>
+
+Using Calendar
+- Pick Heading for Project
+  - Computer Science: Java, Processing-java, C++, Python, HTML5-PHP
+  - Networking: Intorduction to Cyber Security, IT Essentials, CCNA 1, CCNA 2
+  - Physical Computing: Autonomous Vehicle, IoT Plant with Air Quality Control
+- State Main Project with 5 parts, or 5 Projects with main theme
 
 ---
