@@ -4,8 +4,8 @@ Project-based Learning in Computer Science, Networking, and Robotics
 **UNDER CONSTREUCTION**
 
 Table of Contents
-1. Cisco Academy and Networking, <a href="https://github.com/QEHS-Networking/Intro-to-Cybersecurity">Click Here for Course Outline</a>
-   - <a href="https://www.netacad.com/courses/security/introduction-cybersecurity">Introduction to Cybersecurity</a>
+1. Cisco Academy and Networking
+   - <a href="https://www.netacad.com/courses/security/introduction-cybersecurity">Introduction to Cybersecurity</a>, Click Here for <a href="https://github.com/QEHS-Networking/Intro-to-Cybersecurity">Course Outline</a>
    - Introductory Networking: IT Essentials
      - <a href="https://www.netacad.com/courses/os-it/it-essentials">IT Essentials: PC Hardware and Software</a>
      - "Able to *remove* the "Warrantee Void is Sticker Removed" Stick ... and put it back.
