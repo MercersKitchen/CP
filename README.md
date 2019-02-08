@@ -9,6 +9,7 @@ Table of Contents
    - Introductory Networking: IT Essentials
      - <a href="https://www.netacad.com/courses/os-it/it-essentials">IT Essentials: PC Hardware and Software</a>
      - "Able to *remove* the "Warrantee Void is Sticker Removed" Stick ... and put it back.
+     - <a href="https://github.com/QEHS-Networking/IT-Essentials-Planning-and-Links">Progressions and Notes, IT Essentials 2019 Version</a>
    - Intermediate Networking: Introduction to Switches and Networks
      - <a href="https://www.netacad.com/courses/networking/ccna-rs-introduction-networks">CCNA Routing and Switching: Introduction to Networks (Part 1 of 4)</a>
    - Advanced Networking: Switching and Routing
