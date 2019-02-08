@@ -44,4 +44,10 @@ Using Calendar
   - Physical Computing: Autonomous Vehicle, IoT Plant with Air Quality Control
 - State Main Project with 5 parts, or 5 Projects with main theme
 
+Focusing Questions for Networking
+- Do you presently own a laptop, tablet or desktop computer?
+- Are you thinking of buying one in the future?
+- Do you want to make repairs and upgrades to your present computer?
+- Are you interested in building your own computer?  
+- Are you interested in networking computers and setting up your own home network, small business network?
 ---
