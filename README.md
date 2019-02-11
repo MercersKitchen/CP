@@ -17,7 +17,8 @@ Table of Contents
    - **Question**: Why is Cisco Academy Important?
    - **Answer**: <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html">Full CCNA Routing and Switching Description</a>
 2. Previously Completed Project Exemplars, <a href="">Click Here</a>
-<a href="">Click Here</a>
+3. Language Specific
+   - <a href="https://github.com/computer-pathways/Python">Python Resources</a>
 
 Semester Planning: "Project is exactly what you want to do"
 - Title: Maximum 12 Words
