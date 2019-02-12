@@ -19,6 +19,8 @@ Table of Contents
 2. Previously Completed Project Exemplars, <a href="">Click Here</a>
 3. Language Specific
    - <a href="https://github.com/computer-pathways/Python">Python Resources</a>
+4. 3D Printed Autonomous Vehicle, <a href="https://github.com/QEHS-SpecialProjects/3D-Printed-Autonomous-Vehicle">Progressions and Resources</a>
+   - <a href="https://github.com/QEHS-SpecialProjects/Autonomous-Vehicle">Mr. Mercer's Notes and Progressions</a>
 
 Semester Planning: "Project is exactly what you want to do"
 - Title: Maximum 12 Words
