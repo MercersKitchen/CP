@@ -23,6 +23,7 @@ Table of Contents
 4. 3D Printed Autonomous Vehicle, <a href="https://github.com/QEHS-SpecialProjects/3D-Printed-Autonomous-Vehicle">Progressions and Resources</a>
    - <a href="https://github.com/Dev-Outreach/RPi-Arduino-Camera">Learning about RPi, Arduino, and Camera</a>
    - <a href="https://github.com/QEHS-SpecialProjects/Autonomous-Vehicle">Mr. Mercer's Notes and Progressions</a>
+   - <a href="https://drive.google.com/drive/folders/193Be1EvXhHWg-i1rmQdFSfw4CR-nRi6t">Arduino Based Teensy Installation Notes, Private to Mr. Mercer</a>
 
 
 Semester Planning: "Project is exactly what you want to do"
