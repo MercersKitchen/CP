@@ -18,6 +18,7 @@ Table of Contents
    - **Answer**: <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html">Full CCNA Routing and Switching Description</a>
 2. Previously Completed Project Exemplars, <a href="">Click Here</a>
 3. Language Specific
+   - <a href="https://github.com/MercersKitchen/Webpages-Sites/tree/master/Self%20Study">Building Websites from Scratch</a>
    - <a href="https://github.com/computer-pathways/Python">Python Resources</a>
 4. 3D Printed Autonomous Vehicle, <a href="https://github.com/QEHS-SpecialProjects/3D-Printed-Autonomous-Vehicle">Progressions and Resources</a>
    - <a href="https://github.com/QEHS-SpecialProjects/Autonomous-Vehicle">Mr. Mercer's Notes and Progressions</a>
