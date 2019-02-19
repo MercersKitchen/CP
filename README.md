@@ -57,4 +57,8 @@ Focusing Questions for Networking
 - Do you want to make repairs and upgrades to your present computer?
 - Are you interested in building your own computer?  
 - Are you interested in networking computers and setting up your own home network, small business network?
+
+Hardware Geek: https://www.youtube.com/watch?v=q260bjSiyq0&feature=youtu.be
+
+
 ---
