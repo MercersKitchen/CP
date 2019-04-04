@@ -1,0 +1,13 @@
+HSS1050 - Introduction to Mentorship
+HSS1910 - HSS Project A
+HSS2050 - Becoming a Mentor
+Needs HSS1050 - Introduction to Mentorship
+HSS2910 - HSS Project B
+HSS2920 - HSS Project C
+HSS2950 - HSS Intermediate Practicum
+HSS3050 - Becoming A Mentee
+HSS3060 - Extending the Mentoring Relationship
+Needs HSS2050 - Becoming a Mentor
+HSS3910 - HSS Project D
+HSS3920 - HSS Project E
+HSS3950 - HSS Advanced Practicum
