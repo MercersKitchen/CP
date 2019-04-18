@@ -12,8 +12,10 @@ Table of Contents
      - <a href="https://github.com/QEHS-Networking/IT-Essentials-Planning-and-Links">Progressions and Notes, IT Essentials 2019 Version</a>
    - Intermediate Networking: Introduction to Switches and Networks
      - <a href="https://www.netacad.com/courses/networking/ccna-rs-introduction-networks">CCNA Routing and Switching: Introduction to Networks (Part 1 of 4)</a>
+     - <a href="https://github.com/QEHS-Networking/CCNA1-Introduction-to-Networking">Progress and Notes</a>
    - Advanced Networking: Switching and Routing
      - <a href="https://www.netacad.com/courses/networking/ccna-routing-switching-essentials">CCNA Routing and Switching: Routing and Switching Essentials (Part 2 of 4)</a>
+     - <a href="https://github.com/QEHS-Networking/CCNA-2-Routing-and-Switching-Essentials">Progress and Notes</a>
    - **Question**: Why is Cisco Academy Important?
    - **Answer**: <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html">Full CCNA Routing and Switching Description</a>
 2. Previously Completed Project Exemplars, <a href="">Click Here</a>
