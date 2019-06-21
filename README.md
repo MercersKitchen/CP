@@ -27,7 +27,6 @@ Table of Contents
    - <a href="https://github.com/QEHS-SpecialProjects/Autonomous-Vehicle">Mr. Mercer's Notes and Progressions</a>
    - <a href="https://drive.google.com/drive/folders/193Be1EvXhHWg-i1rmQdFSfw4CR-nRi6t">Arduino Based Teensy Installation Notes, Private to Mr. Mercer</a>
 
-
 Semester Planning: "Project is exactly what you want to do"
 - Title: Maximum 12 Words
 - Description: Sentence of what you will accomplish
@@ -62,5 +61,10 @@ Focusing Questions for Networking
 
 Hardware Geek: https://www.youtube.com/watch?v=q260bjSiyq0&feature=youtu.be
 
+Python through Coursea
+
+Netacad
+- Python
+- C++
 
 ---
