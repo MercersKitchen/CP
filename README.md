@@ -1,7 +1,7 @@
 # CP: Computer Pathways and Practicum Learning
 Project-based Learning in Computer Science, Networking, and Robotics
 
-**UNDER CONSTREUCTION**
+**UNDER CONSTRUCTION**
 
 Table of Contents
 1. Cisco Academy and Networking
@@ -22,6 +22,10 @@ Table of Contents
 3. Language Specific
    - <a href="https://github.com/MercersKitchen/Webpages-Sites/tree/master/Self%20Study">Building Websites from Scratch</a>
    - <a href="https://github.com/computer-pathways/Python">Python Resources</a>
+   - C++
+   - JavaScript
+   - Additional Study: Data Structures application in any language
+   - Additional Study: Side Loading to Android Devices using Ketai Library, must use Processing-Java language, or C++ (Python is close)
 4. 3D Printed Autonomous Vehicle, <a href="https://github.com/QEHS-SpecialProjects/3D-Printed-Autonomous-Vehicle">Progressions and Resources</a>
    - <a href="https://github.com/Dev-Outreach/RPi-Arduino-Camera">Learning about RPi, Arduino, and Camera</a>
    - <a href="https://github.com/QEHS-SpecialProjects/Autonomous-Vehicle">Mr. Mercer's Notes and Progressions</a>
@@ -37,7 +41,7 @@ Semester Planning: "Project is exactly what you want to do"
 ---
 
 ## Possible Projects
-
+-
 
 ---
 
