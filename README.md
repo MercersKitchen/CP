@@ -18,6 +18,8 @@ Table of Contents
      - <a href="https://github.com/QEHS-Networking/CCNA-2-Routing-and-Switching-Essentials">Progress and Notes</a>
    - **Question**: Why is Cisco Academy Important?
    - **Answer**: <a href="https://www.cisco.com/c/en/us/training-events/training-certifications/certifications/associate/ccna-routing-switching.html">Full CCNA Routing and Switching Description</a>
+   - "A Networking Practicum", https://github.com/MercersKitchen/Networking-Practicum
+   - "A Networking Practicum", curriculum for Technical Writing and Posse (see CS)
 2. Previously Completed Project Exemplars, <a href="">Click Here</a>
 3. Language Specific
    - <a href="https://github.com/MercersKitchen/Webpages-Sites/tree/master/Self%20Study">Building Websites from Scratch</a>
